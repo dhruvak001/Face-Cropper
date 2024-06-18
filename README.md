@@ -12,7 +12,7 @@ This file detects all the images present in a given inout image with an **Accura
 ## **Requirements**<br/>
 - Python 3.x<br/>
 - OpenCV (cv2)<br/>
-- NumPy<br/>
+- Numpy<br/>
 
 ## **Usage**<br/>
 - Initialize the Fdac class with the path to the input image.<br/>
