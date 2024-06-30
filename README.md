@@ -1,6 +1,6 @@
 # Face Cropper
 
-This project utilizes OpenCV (Open Source Computer Vision Library) to perform face detection and cropping on images. It includes a Python class Fdac which encapsulates the functionalities for detecting faces and cropping them based on predefined criteria.
+This project utilizes OpenCV (Open Source Computer Vision Library) to perform face detection and cropping on images. It includes a Python class Fdac which encapsulates the functionalities for detecting faces and cropping them based on predefined criteria
 This file detects all the images present in a given inout image with an **Accuracy 83%**
 
 ## **Features**<br/>
